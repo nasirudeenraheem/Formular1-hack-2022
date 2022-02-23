@@ -18,4 +18,9 @@ shap
 Prediction accuracy 99% on train data and 94.82 on the test data for weather category.
 00.74 Mean Absolute Error and 99.8% R2 score for rain percenatge forecast.
 
+The Solution is presented by Team Smart
+
+Raheem Nasirudeen (Team Lead)
+
+Kazeem Hakeem (Member)
 
