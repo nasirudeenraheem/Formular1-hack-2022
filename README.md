@@ -6,8 +6,11 @@ Our solution uses the power of 4 types of data analytics i.e Descriptive and dia
 Packages used
 
 Python
+
 Seaborn
+
 matplolib
+
 shap
 
 Prediction accuracy 99% on train data and 94.82 on the test data for weather category.
